@@ -1,0 +1,206 @@
+async def MathRatchada():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Math Ratchadawan", value="Link = https://meet.google.com/lookup/e7uivevc5c \n Classromm = https://classroom.google.com/c/MzQ5MTQ4NDQyNjYx")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def MathSiriporn():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Math Siriporn", value="Link = https://meet.google.com/lookup/a42aewuzf3 \n Classroom = https://classroom.google.com/c/MzM5ODkwMDY3OTA3")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Thai():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="THAI", value="Link = https://meet.google.com/lookup/h6kiigft6w \n Classroom = https://classroom.google.com/c/MzUyMDQwNDcyMDk1")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def pukbrake():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="BREAK", value="10 mins")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def puklunch():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="LUNCH", value="40 mins")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Music():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Music", value="Link = https://meet.google.com/onc-nnzp-mjp?authuser=0 \n Classroom = https://classroom.google.com/c/NDE5NzI0NTg5MTc2")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Social():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Social", value="Link = https://meet.google.com/lookup/blkvrsnnu6 \n Classroom = https://classroom.google.com/c/NDE5NzIwMzgwMTU5")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def EngKritsadaporn():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Eng Kritsadaporn", value="Link = https://meet.google.com/lookup/eavbrbebsi \n Classroom = https://classroom.google.com/c/MzQ4NjI0MTI1NDky")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def EngPaweenuch():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Eng Paweenuch", value="Link = https://meet.google.com/lookup/aosdgofy6e \n Classroom = https://classroom.google.com/c/MzUxMTgyNTc1NDQ0")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def EngKimberry():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Eng Kimberry", value="Link = https://meet.google.com/lookup/aosdgofy6e \n Classroom = https://classroom.google.com/c/MzUxMTgyNTc1NDQ0")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def EngRichard():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Eng Richard", value="Link = https://meet.google.com/lookup/c6kiuznjv4 \n Classroom = https://classroom.google.com/c/MzQ5Nzc3MDk1ODY3")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Health():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Health", value="Link = ไปหาในไลน์ ครูใช้ classroom ไม่เป็น")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Chem():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Chemistry", value="Link = https://meet.google.com/lookup/clx5hjlogs \n Classroom = https://classroom.google.com/c/MzUxMTk4MTgyNDIx")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def comsci():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Com Wattana", value="Link = https://meet.google.com/ipx-pqtn-scx \n Classroom = https://classroom.google.com/c/MzUyNzM5MzU0MjM3")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Bio():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Biologist", value="Link = https://meet.google.com/lookup/f364sytfpk \n Classromm = https://classroom.google.com/c/MzUyNzI4OTU4MzQ3")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Homeroom():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Homeroom", value="Link = https://meet.google.com/lookup/gbiklztxgz")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Cookery():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Cookery", value="Link = https://meet.google.com/yzy-xozo-yrj?authuser=0 \n Classroom = https://classroom.google.com/c/NDIwNDk2MTA3MTQ3")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Phy():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Physic", value="Link = https://meet.google.com/lookup/bm2ap6pghp \n Classroom = https://classroom.google.com/c/MzQ5NzY3Mjk2NzM0")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def pala():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="PALA", value="เช็คชื่อในไลน์")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def gd():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="แนะแนว", value="Link = https://meet.google.com/lookup/eh7paaoubh?authuser=0&hs=179")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def Astro():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Astro", value="Link = https://meet.google.com/lookup/duvzfgp4rc \n Classromm = https://classroom.google.com/c/MzQ3NDY3OTc5OTM4")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+async def ApplicationDev():
+    c = bot.get_channel(882332578454056960)
+    emBed = discord.Embed(title="Now subject:", color=0x0161FF)
+    emBed.add_field(name="Application Dev", value="Link = https://meet.google.com/gky-fpdh-iyy?authuser=0 \n Classromm = https://classroom.google.com/c/NDE5NjQ4MjcwODU4")
+    emBed.set_footer(text="Phatta-BOT Command", icon_url="https://media.discordapp.net/attachments/796634087082426379/882317815355428874/d81694d202eb63f975af5b6b0d8e37ac.png?width=1193&height=671")
+    await c.send(embed=emBed)
+
+
+scheduler = AsyncIOScheduler()
+#MONDAY
+scheduler.add_job(MathRatchada, CronTrigger(day_of_week=0, hour=8, minute=15))
+scheduler.add_job(Thai, CronTrigger(day_of_week=0, hour=8, minute=55))
+scheduler.add_job(pukbrake, CronTrigger(day_of_week=0, hour=9, minute=35))
+scheduler.add_job(Astro, CronTrigger(day_of_week=0, hour=9, minute=45))
+scheduler.add_job(Social, CronTrigger(day_of_week=0, hour=10, minute=25))
+scheduler.add_job(puklunch, CronTrigger(day_of_week=0, hour=11, minute=5))
+scheduler.add_job(Cookery, CronTrigger(day_of_week=0, hour=11, minute=45))
+scheduler.add_job(pukbrake, CronTrigger(day_of_week=0, hour=12, minute=25))
+scheduler.add_job(Music, CronTrigger(day_of_week=0, hour=12, minute=35))
+scheduler.add_job(ApplicationDev, CronTrigger(day_of_week=0, hour=13, minute=15))
+#TUESDAY
+scheduler.add_job(Bio, CronTrigger(day_of_week=1, hour=8, minute=15))
+scheduler.add_job(pukbrake, CronTrigger(day_of_week=1, hour=9, minute=40))
+scheduler.add_job(Phy, CronTrigger(day_of_week=1, hour=9, minute=45))
+scheduler.add_job(comsci, CronTrigger(day_of_week=1, hour=10, minute=25))
+scheduler.add_job(puklunch, CronTrigger(day_of_week=1, hour=11, minute=5))
+scheduler.add_job(Chem, CronTrigger(day_of_week=1, hour=11, minute=45))
+scheduler.add_job(pukbrake, CronTrigger(day_of_week=1, hour=12, minute=30))
+scheduler.add_job(Thai, CronTrigger(day_of_week=1, hour=12, minute=35))
+scheduler.add_job(MathRatchada, CronTrigger(day_of_week=1, hour=13, minute=15))
+#WEDNESDAY
+scheduler.add_job(Homeroom, CronTrigger(day_of_week=2, hour=8, minute=15))
+scheduler.add_job(MathRatchada, CronTrigger(day_of_week=2, hour=8, minute=55))
+scheduler.add_job(pukbrake, CronTrigger(day_of_week=2, hour=9, minute=40))
+scheduler.add_job(EngKimberry, CronTrigger(day_of_week=2, hour=9, minute=45))
+scheduler.add_job(EngRichard, CronTrigger(day_of_week=2, hour=10, minute=25))
+scheduler.add_job(puklunch, CronTrigger(day_of_week=2, hour=11, minute=10))
+scheduler.add_job(Social, CronTrigger(day_of_week=2, hour=11, minute=45))
+scheduler.add_job(pukbrake, CronTrigger(day_of_week=2, hour=12, minute=30))
+scheduler.add_job(MathSiriporn, CronTrigger(day_of_week=2, hour=12, minute=35))
+scheduler.add_job(gd, CronTrigger(day_of_week=2, hour=13, minute=15))
+#THURSDAY
+scheduler.add_job(Bio, CronTrigger(day_of_week=3, hour=9, minute=45))
+scheduler.add_job(Health, CronTrigger(day_of_week=3, hour=10, minute=25))
+scheduler.add_job(puklunch, CronTrigger(day_of_week=3, hour=11, minute=10))
+scheduler.add_job(MathSiriporn, CronTrigger(day_of_week=3, hour=11, minute=45))
+scheduler.add_job(pukbrake, CronTrigger(day_of_week=3, hour=12, minute=30))
+scheduler.add_job(MathRatchada, CronTrigger(day_of_week=3, hour=12, minute=35))
+scheduler.add_job(EngPaweenuch, CronTrigger(day_of_week=3, hour=13, minute=15))
+#FRIDAY
+scheduler.add_job(MathSiriporn, CronTrigger(day_of_week=4, hour=8, minute=15))
+scheduler.add_job(pala, CronTrigger(day_of_week=4, hour=8, minute=55))
+scheduler.add_job(pukbrake, CronTrigger(day_of_week=4, hour=9, minute=40))
+scheduler.add_job(Phy, CronTrigger(day_of_week=4, hour=9, minute=45))
+scheduler.add_job(puklunch, CronTrigger(day_of_week=4, hour=11, minute=10))
+scheduler.add_job(EngKritsadaporn, CronTrigger(day_of_week=4, hour=12, minute=35))
+scheduler.add_job(Chem, CronTrigger(day_of_week=4, hour=13, minute=15))
+
+scheduler.start()
